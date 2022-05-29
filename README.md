@@ -10,6 +10,7 @@ Major functions of the application:
 ## Installation
 
 1. Clone the project in computer
-2. run the main.exe file 
+2. Configure mysql file from database folder with mysql workbench
+3. run the main.exe file 
 
     
